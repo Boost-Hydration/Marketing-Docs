@@ -1,69 +1,54 @@
+filters:: {"contents" false}
+
 # 🛒 Marketing Templates
-	- ## Campaign
+id:: 6269aca4-caaa-4b4d-a862-5ffbbd70423f
+	- ## **Campaign**
 	  template:: Campaign Template
 	  template-including-parent:: false
+	  id:: 6269aca4-4eb7-44c0-8ae0-f484fc13e28f
 		- ## 🎯 Main Objective
-		  Describe what the main purpose behind the Campaign.
+		  Describe what the main purpose behind the Campaign. If we could only choose one thing we could accomplish with this campaign, what would it be?
 			-
-	- ## 🥅 Campaign Goals
-	  List and briefly describe what does this Campaign aims to achieve.
-		-
-	- ## 🪛 Campaign Components
-	  List which Marketing Assets move this Campaign forward.
-		- ### Website Pages
-		  These pages ARE displayed on the Site's Navbar. Normally, these are Service or Product pages; and are not exclusive to Campaigns, as they make up essential parts of our main website.
+		- ## 🥅 Campaign Goals
+		  Beyond the Main Objectives, what are the goals of this Campaign effort?
 			-
-		- ### Landing Pages
-		  These pages are NOT displayed on the Site's Navbar, yet still exist as part of our website. Normally, these pages are exclusive to Campaigns, as their main purpose is to move Campaigns forward.
-			-
-		- ### Blog Articles (or related materials)
-		  List sample Blog Article (or related materials) ideas.
-			-
-		- ### Email Marketing 
-		  List email marketing templates that will be used in this Campaign.
-			-
-	- ## Buyer Persona
+		- ## 🪛 Campaign Components
+		  This what will move this Campaign forward.
+			- ### Website Pages
+			  These pages ARE displayed on the Site's Navbar. Normally, these are IV or Injection treatment pages; and therefore, they are not exclusive to Campaigns, as they make up essential parts of our website.
+				-
+			- ### Landing Pages
+			  These pages are NOT displayed on the Site's Navbar, yet still can exist as part of our website. Normally, these pages are exclusive to Campaigns, as their main purpose is to move Campaigns forward by providing a conversation.
+				-
+			- ### Blog Articles (or related materials)
+			  List sample Blog Article (or related materials) ideas.
+				-
+			- ### Email Marketing 
+			  List email marketing templates that will be used in this Campaign.
+				-
+	- ## **Buyer Persona**
 	  template:: Buyer Persona Template
 	  template-including-parent:: false
+	  id:: 6269aca4-d52f-4599-b432-493a447c03f1
 		- ## 🫀 Baseline
-		  General baseline information about the Buyer Persona.
+		  General information about this Persona.
 			- ### Name
 				-
-			- ### Job Title
+			- ### Job
 				-
 			- ### Education
 				-
-			- ### Industry/Segment
+			- ### Segment
 				-
-			- ### Reports To
-				-
-		- ## 📋 Job Description
-		  Briefly describe the key qualifications and responsibilities associated with this Buyer's job.
+		- ## 📋 Lifestyle Description
+		  Briefly describe some of the key characteristics about this Persona.
 			-
 		- ## 🎯 Problem/Solution
-		  List some of the problems this Buyer may be facing, and how would MTHRSHP solve their problem.
+		  List some of the problems this Persona may be facing, and specify how Boost Hydration could go about helping them solve their problem.
 			-
 		- ## 🥇 Performance Metrics
-		  Without respect to the solution you are marketing to this buyer, describe the way this Buyer’s job
-		  performance is measured.
+		  What might be some of the ways that this Persona might judge our impact on their lifestyle?
 			-
 		- ## 🤝 Trusted Resources
-		  List the places this Buyer visits and the assets they trust for new information and insights.
+		  List the places this Persona might visit for new information and insights.
 			-
-- # 🌐 Website Templates
-	- ## Web Page
-	  template:: Web Page Template
-	  template-including-parent:: false
-		- ## 👥 Target Audience
-		  List which Buyer Personas this Page SPECIFICALLY addresses.
-			-
-		- ## 🥅 Page Goals
-		  List and briefly describe what this Page aims to achieve.
-			-
-		- ## 🪛 Page Components
-			- ## Main Heading
-			  Usually, the Heading 1 (or the Main Heading) of the page.
-				-
-			- ## Message
-			  The main message or description of the page.
-				-
